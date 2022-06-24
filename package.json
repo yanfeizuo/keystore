@@ -1,0 +1,19 @@
+{
+  "name": "@yanfeizuo/keystore",
+  "version": "0.0.2",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint ."
+  },
+  "author": "yanfeizuo",
+  "license": "MIT",
+  "dependencies": {
+    "keythereum": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-plugin-unused-imports": "^2.0.0"
+  }
+}
